@@ -1,2 +1,2 @@
 # RAG
-retrieval augmented generation
+: Retrieval-Augmented Generation
